@@ -1,0 +1,40 @@
+name: PoggerItems
+version: 0.1
+author: NotBestLord
+main: me.notbestlord.Plugin.Main
+description: Cool items
+api-version: 1.17
+
+commands:
+  CheatBrickGive:
+    description: CheatBrickGive
+  DebugStickGive:
+    description: DebugStickGive
+  SpyBowGive:
+    description: SpyBowGive
+  Heal:
+    description: Heal
+  ReturnScrollGive:
+    description: ReturnScrollGive
+  WarpGive:
+    description: WarpGive
+  PortableWorkbenchGive:
+    description: PortableWorkbenchGive
+  SetMaxMana:
+    description: SetMaxMana
+  EnchantingTableOpen:
+    description: EnchantingTableOpen
+  PortableSmelteryGive:
+    description: PortableSmelteryGive
+  ShortBowGive:
+    description: ShortBowGive
+  HydraulicPressGive:
+    description: HydraulicPressGive
+  MaxRF:
+    description: MaxRF
+  Recipes:
+    description: Recipes
+  Temperature:
+    description: Temperature
+  Species:
+    description: Species
